@@ -1,2 +1,2 @@
 # Proyecto-Responsive-designe_mobile-first
-Sitio web Bitcoin usando HTML y CSS - Aplicado desde Mobile first
+Bitcoin website using HTML and CSS - Applied from Mobile first
